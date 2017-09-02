@@ -47,7 +47,7 @@ i:shot_destroy.png:206:image/png
 i:blank_block.png:250:image/png
 i:textbox_2.png:458:image/png
 i:pause_symbol.png:297:image/png
-a:MCS_Detective.mp3:6166905:application/unknown
+a:MCS_Detective.mp3:462102:application/unknown
 i:mine_titanium.png:735:image/png
 i:abutton_trim_cyan.png:507:image/png
 i:abutton_trim_yellow.png:510:image/png
@@ -70,7 +70,7 @@ i:fullship_GREEN.png:2048:image/png
 i:campaign_button_next.png:1492:image/png
 i:bak_but.png:377:image/png
 i:abutton_trim_green.png:506:image/png
-a:LevelSelect.mp3:8407166:application/unknown
+a:LevelSelect.mp3:630575:application/unknown
 i:shot_capture.png:184:image/png
 i:difficulty_arrow.png:1502:image/png
 i:book_title_button.png:369:image/png
@@ -172,9 +172,9 @@ a:other_sfx/186945__readeonly__cannon-boom5.wav:217470:audio/x-wav
 a:other_sfx/268553_cydon_bang_001.mp3:86400:application/unknown
 i:angle_button_blue.png:516:image/png
 i:obutton_blank.png:402:image/png
-a:MCS_Dampen.mp3:12766480:application/unknown
-a:Menu.mp3:5166937:application/unknown
-a:MCS_Trance.mp3:12967100:application/unknown
+a:MCS_Dampen.mp3:957602:application/unknown
+a:Menu.mp3:387503:application/unknown
+a:MCS_Trance.mp3:972741:application/unknown
 i:pobutton_right_trim.png:366:image/png
 i:TREE_III.png:11335:image/png
 i:abutton_reset.png:2158:image/png
@@ -214,7 +214,6 @@ a:js_sfx/341235__jeremysykes__laser01.wav:26020:audio/x-wav
 a:js_sfx/344525__jeremysykes__alarm00.wav:183662:audio/x-wav
 a:js_sfx/341243__jeremysykes__hurt02.wav:10188:audio/x-wav
 a:js_sfx/341244__jeremysykes__hurt01.wav:16644:audio/x-wav
-a:js_sfx/341259__jeremysykes__helicopter01.wav:247366:audio/x-wav
 a:js_sfx/344502__jeremysykes__jump03.wav:19762:audio/x-wav
 a:js_sfx/344503__jeremysykes__intercom02.wav:52050:audio/x-wav
 a:js_sfx/341230__jeremysykes__coin01.wav:21686:audio/x-wav
@@ -230,7 +229,6 @@ a:js_sfx/344510__jeremysykes__select03.wav:15520:audio/x-wav
 a:js_sfx/344506__jeremysykes__explosion04.wav:69594:audio/x-wav
 a:js_sfx/341663__jeremysykes__pick01.wav:55332:audio/x-wav
 a:js_sfx/341240__jeremysykes__powerup03.wav:67522:audio/x-wav
-a:js_sfx/341257__jeremysykes__helicopter00.wav:422368:audio/x-wav
 a:js_sfx/341682__jeremysykes__powerup04.wav:48222:audio/x-wav
 a:js_sfx/341238__jeremysykes__explosion01.wav:34928:audio/x-wav
 a:js_sfx/341241__jeremysykes__powerup02.wav:60838:audio/x-wav
@@ -272,7 +270,6 @@ a:js_sfx/344518__jeremysykes__pick04.wav:42694:audio/x-wav
 a:js_sfx/344513__jeremysykes__laser04.wav:23306:audio/x-wav
 a:js_sfx/341234__jeremysykes__laser02.wav:24254:audio/x-wav
 a:js_sfx/341251__jeremysykes__select00.wav:10188:audio/x-wav
-a:js_sfx/341679__jeremysykes__beamup00.wav:302276:audio/x-wav
 a:js_sfx/341253__jeremysykes__bubbles00.wav:30566:audio/x-wav
 a:js_sfx/341248__jeremysykes__jump00.wav:15386:audio/x-wav
 i:abutton_trim_grey.png:521:image/png
