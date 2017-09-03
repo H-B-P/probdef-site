@@ -16587,12 +16587,12 @@ npe,com.hbp.probdef.GenericBookScreen::$new_page(Lcom/hbp/probdef/GenericBookScr
 ope,com.hbp.probdef.GenericBookScreen::GenericBookScreen(Lcom/hbp/probdef/ProbDef;Z)V,com.hbp.probdef.GenericBookScreen,GenericBookScreen,com/hbp/probdef/GenericBookScreen.java,46,0
 d,com.hbp.probdef.GenericBookScreen::arrowsound,com.hbp.probdef.GenericBookScreen,arrowsound,com/hbp/probdef/GenericBookScreen.java,43,-1
 e,com.hbp.probdef.GenericBookScreen::batch,com.hbp.probdef.GenericBookScreen,batch,com/hbp/probdef/GenericBookScreen.java,21,-1
-ppe,com.hbp.probdef.GenericBookScreen::dispose()V,com.hbp.probdef.GenericBookScreen,dispose,com/hbp/probdef/GenericBookScreen.java,238,0
-qpe,com.hbp.probdef.GenericBookScreen::handle_seconds()V,com.hbp.probdef.GenericBookScreen,handle_seconds,com/hbp/probdef/GenericBookScreen.java,162,0
-rpe,com.hbp.probdef.GenericBookScreen::level_specific_events()V,com.hbp.probdef.GenericBookScreen,level_specific_events,com/hbp/probdef/GenericBookScreen.java,195,0
+ppe,com.hbp.probdef.GenericBookScreen::dispose()V,com.hbp.probdef.GenericBookScreen,dispose,com/hbp/probdef/GenericBookScreen.java,240,0
+qpe,com.hbp.probdef.GenericBookScreen::handle_seconds()V,com.hbp.probdef.GenericBookScreen,handle_seconds,com/hbp/probdef/GenericBookScreen.java,164,0
+rpe,com.hbp.probdef.GenericBookScreen::level_specific_events()V,com.hbp.probdef.GenericBookScreen,level_specific_events,com/hbp/probdef/GenericBookScreen.java,197,0
 spe,com.hbp.probdef.GenericBookScreen::level_specific_music_setup()V,com.hbp.probdef.GenericBookScreen,level_specific_music_setup,com/hbp/probdef/GenericBookScreen.java,134,0
-tpe,com.hbp.probdef.GenericBookScreen::level_specific_timeline()V,com.hbp.probdef.GenericBookScreen,level_specific_timeline,com/hbp/probdef/GenericBookScreen.java,216,0
-upe,com.hbp.probdef.GenericBookScreen::level_specific_turret_setup()V,com.hbp.probdef.GenericBookScreen,level_specific_turret_setup,com/hbp/probdef/GenericBookScreen.java,180,0
+tpe,com.hbp.probdef.GenericBookScreen::level_specific_timeline()V,com.hbp.probdef.GenericBookScreen,level_specific_timeline,com/hbp/probdef/GenericBookScreen.java,218,0
+upe,com.hbp.probdef.GenericBookScreen::level_specific_turret_setup()V,com.hbp.probdef.GenericBookScreen,level_specific_turret_setup,com/hbp/probdef/GenericBookScreen.java,182,0
 f,com.hbp.probdef.GenericBookScreen::maxpages,com.hbp.probdef.GenericBookScreen,maxpages,com/hbp/probdef/GenericBookScreen.java,39,-1
 g,com.hbp.probdef.GenericBookScreen::nxt_r,com.hbp.probdef.GenericBookScreen,nxt_r,com/hbp/probdef/GenericBookScreen.java,27,-1
 i,com.hbp.probdef.GenericBookScreen::nxt_t,com.hbp.probdef.GenericBookScreen,nxt_t,com/hbp/probdef/GenericBookScreen.java,30,-1
