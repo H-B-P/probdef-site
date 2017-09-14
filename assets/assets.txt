@@ -82,13 +82,17 @@ i:shot_capture.png:184:image/png
 i:difficulty_arrow.png:1502:image/png
 i:book_title_button.png:369:image/png
 i:little_button_frac.png:1397:image/png
+i:abutton_long_space.png:2208:image/png
 i:intercept_shield.png:146:image/png
 i:pobutton_left_trim.png:363:image/png
 i:shield_MATRIX.png:152:image/png
 i:abutton_trim_boring.png:519:image/png
+i:PROBDEF_freeformers.png:6352:image/png
 i:little_button_cent.png:1729:image/png
 i:abutton_trim_pink.png:509:image/png
 i:banner_pascal.png:1487:image/png
+i:abutton_long_level.png:1174:image/png
+i:abutton_long_game.png:2168:image/png
 i:mine_shield.png:730:image/png
 i:BG1.png:1450:image/png
 i:abutton_long_tutorial.png:2471:image/png
@@ -123,7 +127,6 @@ i:shield_GREEN.png:134:image/png
 i:banner_example_2.png:2415:image/png
 i:campaign_button_retry.png:1666:image/png
 i:abutton_trim_purple.png:522:image/png
-i:TREE_II.png:10331:image/png
 d:turrets:0:application/unknown
 i:turrets/chickenscratch_2.png:124:image/png
 i:turrets/turret_triangle_firing.png:405:image/png
@@ -206,7 +209,6 @@ i:ingame_button_menu (copy).png:1445:image/png
 i:minishield.png:124:image/png
 i:selector_genre.png:1470:image/png
 i:blackbar_poncho.png:20571:image/png
-i:campaign_tb_lose.png:2799:image/png
 i:banner_example_3.png:2549:image/png
 i:contact_block.png:2156:image/png
 i:ingame_orange_button_trim.png:294:image/png
