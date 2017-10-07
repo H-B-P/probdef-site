@@ -50,8 +50,10 @@ i:shot_destroy.png:206:image/png
 i:blank_block.png:250:image/png
 i:textbox_2.png:458:image/png
 i:pause_symbol.png:297:image/png
+i:orange_dot.png:115:image/png
 a:MCS_Detective.mp3:462102:application/unknown
-i:mine_titanium.png:735:image/png
+i:obscurity_4.png:936:image/png
+i:mine_titanium.png:734:image/png
 i:little_button_trim.png:294:image/png
 i:abutton_trim_cyan.png:507:image/png
 i:abutton_trim_yellow.png:510:image/png
@@ -72,8 +74,10 @@ i:little_button_deci.png:1469:image/png
 i:campaign_button_ok.png:1189:image/png
 i:BG2.png:1992:image/png
 i:abutton_power.png:2309:image/png
+i:obscurity_2.png:837:image/png
 i:TREE_CENT.png:11309:image/png
 i:obscurity_base.png:191:image/png
+i:green_dot.png:115:image/png
 i:abutton_long_library.png:2245:image/png
 i:abutton_trim_red.png:518:image/png
 i:L1_but.png:656:image/png
@@ -160,6 +164,7 @@ i:turrets/turret_square_firing.png:206:image/png
 i:turrets/turret_circle_selected.png:384:image/png
 i:turrets/turret_pentagon.png:407:image/png
 i:turrets/target_circle.png:411:image/png
+i:turrets/target_pentagon_lineup.png:458:image/png
 i:turrets/turret_triangle.png:410:image/png
 i:turrets/target_triangle_alt_multi.png:515:image/png
 i:turrets/target_hexagon.png:359:image/png
@@ -187,7 +192,7 @@ i:turrets/chickenscratch_3.png:124:image/png
 i:turrets/turret_hexagon.png:330:image/png
 i:turrets/turret_hexagon_emptytop.png:319:image/png
 i:turrets/chickenscratch_4.png:122:image/png
-i:turrets/target_pentagon.png:458:image/png
+i:turrets/target_pentagon.png:457:image/png
 i:turrets/turret_square_selected_multi.png:235:image/png
 i:turrets/turret_hexagon_selected.png:361:image/png
 i:turrets/turret_pentagon_selected.png:431:image/png
@@ -207,6 +212,7 @@ i:TREE_III.png:11335:image/png
 i:mine_trim.png:253:image/png
 i:abutton_reset.png:2158:image/png
 i:shield_layer_one.png:204:image/png
+i:obscurity_3.png:879:image/png
 i:shield_flicker.png:134:image/png
 i:campaign_tb_win.png:3418:image/png
 i:book_title_trim_argand.png:367:image/png
