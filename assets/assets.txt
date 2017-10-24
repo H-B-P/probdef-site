@@ -1,4 +1,6 @@
 d:assets:0:application/unknown
+i:abutton_tutorial.png:2110:image/png
+i:abutton_campaign.png:2649:image/png
 i:obscurity_2.png:837:image/png
 i:blackbar_poncho.png:20571:image/png
 i:abutton_trim_grey.png:521:image/png
@@ -7,12 +9,14 @@ i:abutton_long_level.png:1174:image/png
 i:obutton_right.png:486:image/png
 i:enemyship.png:374:image/png
 i:campaign_button_start.png:1352:image/png
+i:abutton_credits.png:2419:image/png
 i:shield_flicker.png:134:image/png
 a:LevelSelect.mp3:630575:application/unknown
 i:shield_layer_one.png:204:image/png
 i:ingame_button_menu (copy).png:1445:image/png
 i:pobutton_left.png:441:image/png
 i:fullship_INVISIBLE.png:2008:image/png
+i:abutton_library.png:1941:image/png
 i:obscurity.png:822:image/png
 i:textbox_2.png:458:image/png
 i:little_button_deci.png:1469:image/png
@@ -28,7 +32,6 @@ i:orange_dot.png:115:image/png
 i:pobutton_left_trim.png:363:image/png
 i:mine_capturing_circle.png:628:image/png
 i:fullship_absent.png:1986:image/png
-i:abutton_combined.png:2453:image/png
 i:BG1.png:1450:image/png
 i:campaign_button_next.png:1492:image/png
 i:book_title_trim_argand.png:367:image/png
@@ -36,6 +39,7 @@ i:abutton_long_library.png:2245:image/png
 i:shields.png:394:image/png
 i:TREE.png:5092:image/png
 i:obscurity_4.png:936:image/png
+i:obscurity_1.png:822:image/png
 i:ingame_blue_button_trim.png:297:image/png
 i:TREE_CENT.png:11309:image/png
 i:shield_layer_two.png:211:image/png
@@ -188,7 +192,6 @@ i:banner_blank.png:286:image/png
 d:other_sfx:0:application/unknown
 a:other_sfx/bang.mp3:6696:application/unknown
 a:other_sfx/cannon.mp3:4241:application/unknown
-i:little_button_orange_trim.png:303:image/png
 i:abutton_menu.png:1832:image/png
 i:textbox_1.png:396:image/png
 i:selector_genre.png:1470:image/png
@@ -197,18 +200,20 @@ i:button_trim_rect.png:288:image/png
 i:campaign_tb_final.png:648:image/png
 i:abutton_long_trim.png:532:image/png
 i:abutton_trim_yellow.png:510:image/png
+i:abutton_arcade.png:2355:image/png
 i:mine_trim_full.png:657:image/png
 i:minishield.png:124:image/png
 i:campaign_button_ok.png:1189:image/png
 i:abutton_trim_boring.png:519:image/png
-i:little_button_trim.png:294:image/png
 i:obutton_left.png:486:image/png
 i:banner_example_2.png:2415:image/png
 i:shield_layer_four.png:315:image/png
 i:abutton_long_game.png:2168:image/png
 i:banner_example_3.png:2549:image/png
 i:shot_capture.png:184:image/png
-i:pobutton_left_trim_orange.png:357:image/png
+i:pobutton_left_trim_orange.png:351:image/png
+i:ingame_purple_button_trim.png:290:image/png
+i:little_button_purple_trim.png:298:image/png
 i:blank_page.png:1699:image/png
 i:mine_trim.png:253:image/png
 i:statusbar.png:404:image/png
@@ -248,7 +253,7 @@ i:the_font/gf.png:6932:image/png
 i:the_font/greenflame.png:1945:image/png
 b:the_font/GreenFlame.ttf:10068:application/unknown
 t:the_font/greenflame.fnt:8804:application/unknown
-i:pobutton_right_trim_orange.png:365:image/png
+i:pobutton_right_trim_orange.png:359:image/png
 i:banner_probability.png:2337:image/png
 i:abutton_long_campaign.png:3194:image/png
 i:obscurity_base.png:191:image/png
@@ -261,8 +266,9 @@ i:shield_layer_three.png:277:image/png
 i:bak_but.png:377:image/png
 i:mine_titanium.png:734:image/png
 i:little_button_frac.png:1397:image/png
-i:abutton_power.png:2309:image/png
+i:explainybox.png:388:image/png
 i:but_trim.png:244:image/png
+i:abutton_options.png:2652:image/png
 i:abutton_trim_cyan.png:507:image/png
 d:turrets:0:application/unknown
 i:turrets/turret_triangle_emptytop.png:400:image/png
@@ -330,7 +336,7 @@ d:snippets:0:application/unknown
 i:snippets/snyp.png:8287:image/png
 i:shield_GREEN.png:137:image/png
 i:obutton_blank.png:402:image/png
-i:PROBDEF.png:5032:image/png
+i:PROBDEF.png:3573:image/png
 i:book_title_trim_matrix.png:371:image/png
 i:contact_block.png:2156:image/png
 i:abutton_long_tutorial.png:2471:image/png
