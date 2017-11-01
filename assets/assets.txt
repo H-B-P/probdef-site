@@ -3,6 +3,7 @@ i:abutton_tutorial.png:2110:image/png
 i:abutton_campaign.png:2649:image/png
 i:obscurity_2.png:837:image/png
 i:blackbar_poncho.png:20571:image/png
+i:abutton_black.png:428:image/png
 i:abutton_trim_grey.png:521:image/png
 i:abutton_long_space.png:2208:image/png
 i:abutton_long_level.png:1174:image/png
@@ -20,7 +21,9 @@ i:abutton_library.png:1941:image/png
 i:obscurity.png:822:image/png
 i:textbox_2.png:458:image/png
 i:little_button_deci.png:1469:image/png
+i:TITLE_ARCADE.png:2659:image/png
 i:ingame_orange_button_trim.png:294:image/png
+i:sbut_trim.png:244:image/png
 a:MCS_Dampen.mp3:957602:application/unknown
 i:abutton_trim_green.png:506:image/png
 i:abutton_long_arcade.png:2152:image/png
@@ -43,6 +46,7 @@ i:obscurity_1.png:822:image/png
 i:ingame_blue_button_trim.png:297:image/png
 i:TREE_CENT.png:11309:image/png
 i:shield_layer_two.png:211:image/png
+i:TITLE_LIBRARY.png:3545:image/png
 i:BG2.png:1992:image/png
 i:abutton_trim_red.png:518:image/png
 i:big_explosion.png:384:image/png
@@ -65,6 +69,7 @@ i:vanes/vane.png:411:image/png
 i:abutton_reset.png:2158:image/png
 i:campaign_button_retry.png:1666:image/png
 i:banner_example_1.png:2208:image/png
+i:TITLE_CAMPAIGN.png:3073:image/png
 i:ingame_button_menu.png:1445:image/png
 i:campaign_tb_win.png:3418:image/png
 i:banner_pascal.png:1487:image/png
@@ -73,12 +78,12 @@ d:sfx_scronched:0:application/unknown
 a:sfx_scronched/gunshot.mp3:6984:application/unknown
 a:sfx_scronched/pick.mp3:7488:application/unknown
 a:sfx_scronched/shock.mp3:792:application/unknown
+a:sfx_scronched/gunshot_failed.mp3:6696:application/unknown
 a:sfx_scronched/bang.mp3:6696:application/unknown
 a:sfx_scronched/laser.wav:24254:audio/x-wav
 a:sfx_scronched/wrong.wav:23254:audio/x-wav
 a:sfx_scronched/cannon.mp3:4241:application/unknown
 a:sfx_scronched/hurt.wav:10188:audio/x-wav
-i:fwd_but.png:370:image/png
 i:difficulty_arrow.png:1502:image/png
 i:enemy_ship_shield.png:122:image/png
 a:MCS_Trance.mp3:972741:application/unknown
@@ -174,6 +179,7 @@ i:dots/dot_pink_and.png:190:image/png
 i:dots/dot_cyan_and.png:190:image/png
 i:explosion.png:330:image/png
 i:mine.png:734:image/png
+i:sbut_backward.png:377:image/png
 d:regular_font:0:application/unknown
 i:regular_font/gravity.png:13706:image/png
 b:regular_font/Gravity_License.pdf:42976:application/pdf
@@ -194,7 +200,6 @@ a:other_sfx/bang.mp3:6696:application/unknown
 a:other_sfx/cannon.mp3:4241:application/unknown
 i:abutton_menu.png:1832:image/png
 i:textbox_1.png:396:image/png
-i:selector_genre.png:1470:image/png
 i:obscurity_3.png:879:image/png
 i:button_trim_rect.png:288:image/png
 i:campaign_tb_final.png:648:image/png
@@ -207,6 +212,7 @@ i:campaign_button_ok.png:1189:image/png
 i:abutton_trim_boring.png:519:image/png
 i:obutton_left.png:486:image/png
 i:banner_example_2.png:2415:image/png
+i:sbut_forward.png:370:image/png
 i:shield_layer_four.png:315:image/png
 i:abutton_long_game.png:2168:image/png
 i:banner_example_3.png:2549:image/png
@@ -221,9 +227,9 @@ i:enemy_ship_shield_flicker.png:122:image/png
 i:ingame_green_button_trim.png:291:image/png
 i:campaign_tb_new_level.png:2675:image/png
 i:abutton_fire.png:1373:image/png
+i:creds3.png:32021:image/png
 i:green_dot.png:115:image/png
 i:campaign_tb_level.png:883:image/png
-i:R_but.png:539:image/png
 d:ship_bases:0:application/unknown
 i:ship_bases/front_w.png:269:image/png
 i:ship_bases/engine_c.png:194:image/png
@@ -262,12 +268,13 @@ i:abutton_trim_purple.png:522:image/png
 i:blank_block.png:250:image/png
 i:banner_bayes.png:1961:image/png
 i:little_button_cent.png:1729:image/png
+i:TITLE_CREDITS.png:2788:image/png
 i:shield_layer_three.png:277:image/png
-i:bak_but.png:377:image/png
+i:TITLE_OPTIONS.png:2993:image/png
 i:mine_titanium.png:734:image/png
 i:little_button_frac.png:1397:image/png
+i:selector_base.png:277:image/png
 i:explainybox.png:388:image/png
-i:but_trim.png:244:image/png
 i:abutton_options.png:2652:image/png
 i:abutton_trim_cyan.png:507:image/png
 d:turrets:0:application/unknown
@@ -336,7 +343,7 @@ d:snippets:0:application/unknown
 i:snippets/snyp.png:8287:image/png
 i:shield_GREEN.png:137:image/png
 i:obutton_blank.png:402:image/png
-i:PROBDEF.png:3573:image/png
+i:PROBDEF.png:3575:image/png
 i:book_title_trim_matrix.png:371:image/png
 i:contact_block.png:2156:image/png
 i:abutton_long_tutorial.png:2471:image/png
