@@ -22,6 +22,7 @@ i:obscurity.png:822:image/png
 i:textbox_2.png:458:image/png
 i:little_button_deci.png:1469:image/png
 i:TITLE_ARCADE.png:2659:image/png
+i:simple_green_arrow.png:305:image/png
 i:ingame_orange_button_trim.png:294:image/png
 i:sbut_trim.png:244:image/png
 a:MCS_Dampen.mp3:957602:application/unknown
@@ -57,6 +58,7 @@ i:vanes/vanes_target_hexagon.png:355:image/png
 i:vanes/vanes_target_triangle.png:420:image/png
 i:vanes/vane_trim.png:200:image/png
 i:vanes/vanes_target_square.png:243:image/png
+i:vanes/vane_silhouette.png:164:image/png
 i:vanes/vane_outline.png:494:image/png
 i:vanes/vanes_target_pentagon.png:425:image/png
 i:vanes/vanes_target_circle.png:406:image/png
@@ -198,6 +200,8 @@ i:banner_blank.png:286:image/png
 d:other_sfx:0:application/unknown
 a:other_sfx/bang.mp3:6696:application/unknown
 a:other_sfx/cannon.mp3:4241:application/unknown
+i:FOREST_chop_2.png:7732:image/png
+i:little_button_orange_trim.png:287:image/png
 i:abutton_menu.png:1832:image/png
 i:textbox_1.png:396:image/png
 i:obscurity_3.png:879:image/png
@@ -219,7 +223,6 @@ i:banner_example_3.png:2549:image/png
 i:shot_capture.png:184:image/png
 i:pobutton_left_trim_orange.png:351:image/png
 i:ingame_purple_button_trim.png:290:image/png
-i:little_button_purple_trim.png:298:image/png
 i:blank_page.png:1699:image/png
 i:mine_trim.png:253:image/png
 i:statusbar.png:404:image/png
@@ -263,6 +266,7 @@ i:pobutton_right_trim_orange.png:359:image/png
 i:banner_probability.png:2337:image/png
 i:abutton_long_campaign.png:3194:image/png
 i:obscurity_base.png:191:image/png
+i:FOREST_chop_1.png:7603:image/png
 i:abutton_long_explorables.png:3655:image/png
 i:abutton_trim_purple.png:522:image/png
 i:blank_block.png:250:image/png
@@ -326,6 +330,7 @@ i:turrets/target_triangle_alt.png:508:image/png
 i:turrets/chickenscratch_3.png:124:image/png
 i:turrets/turret_hexagon_silhouette.png:240:image/png
 i:turrets/turret_hexagon_firing.png:324:image/png
+i:turrets/minicirc.png:291:image/png
 i:turrets/turret_square_selected.png:217:image/png
 i:turrets/turret_pentagon_silhouette.png:298:image/png
 i:turrets/turret_hexagon_selected_multi.png:377:image/png
@@ -338,11 +343,13 @@ i:abutton_blank.png:483:image/png
 i:little_button_blue_trim.png:306:image/png
 a:MCS_Detective.mp3:462102:application/unknown
 i:angle_button_blue.png:516:image/png
+i:FOREST.png:7850:image/png
 i:enemyship_alt.png:354:image/png
 d:snippets:0:application/unknown
 i:snippets/snyp.png:8287:image/png
 i:shield_GREEN.png:137:image/png
 i:obutton_blank.png:402:image/png
+i:tiny_black_arrow.png:135:image/png
 i:PROBDEF.png:3575:image/png
 i:book_title_trim_matrix.png:371:image/png
 i:contact_block.png:2156:image/png
