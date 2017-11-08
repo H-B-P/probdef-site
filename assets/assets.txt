@@ -27,6 +27,7 @@ i:ingame_orange_button_trim.png:294:image/png
 i:sbut_trim.png:244:image/png
 a:MCS_Dampen.mp3:957602:application/unknown
 i:abutton_trim_green.png:506:image/png
+i:Pretty_Background.png:2707:image/png
 i:abutton_long_arcade.png:2152:image/png
 i:pobutton_right_trim.png:366:image/png
 i:abutton_trim_pink.png:509:image/png
