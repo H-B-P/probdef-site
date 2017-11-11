@@ -73,7 +73,7 @@ i:abutton_reset.png:2158:image/png
 i:campaign_button_retry.png:1666:image/png
 i:banner_example_1.png:2208:image/png
 i:TITLE_CAMPAIGN.png:3073:image/png
-i:ingame_button_menu.png:1445:image/png
+i:ingame_button_menu.png:811:image/png
 i:campaign_tb_win.png:3418:image/png
 i:banner_pascal.png:1487:image/png
 i:TREE_FRAC.png:10024:image/png
@@ -202,6 +202,7 @@ d:other_sfx:0:application/unknown
 a:other_sfx/bang.mp3:6696:application/unknown
 a:other_sfx/cannon.mp3:4241:application/unknown
 i:FOREST_chop_2.png:7732:image/png
+i:level_complete.png:3037:image/png
 i:little_button_orange_trim.png:287:image/png
 i:abutton_menu.png:1832:image/png
 i:textbox_1.png:396:image/png
@@ -276,7 +277,7 @@ i:little_button_cent.png:1729:image/png
 i:TITLE_CREDITS.png:2788:image/png
 i:shield_layer_three.png:277:image/png
 i:TITLE_OPTIONS.png:2993:image/png
-i:mine_titanium.png:734:image/png
+i:mine_titanium.png:846:image/png
 i:little_button_frac.png:1397:image/png
 i:selector_base.png:277:image/png
 i:explainybox.png:388:image/png
@@ -356,7 +357,7 @@ i:book_title_trim_matrix.png:371:image/png
 i:contact_block.png:2156:image/png
 i:abutton_long_tutorial.png:2471:image/png
 i:book_title_button.png:369:image/png
-i:fullship_GREEN.png:2030:image/png
+i:fullship_GREEN.png:2040:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
