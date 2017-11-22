@@ -37,6 +37,7 @@ i:orange_dot.png:115:image/png
 i:pobutton_left_trim.png:363:image/png
 i:mine_capturing_circle.png:628:image/png
 i:fullship_absent.png:1986:image/png
+i:creds4.png:32945:image/png
 i:BG1.png:1450:image/png
 i:campaign_button_next.png:1492:image/png
 i:book_title_trim_argand.png:367:image/png
@@ -181,6 +182,7 @@ i:dots/dot_book_red.png:118:image/png
 i:dots/dot_pink_and.png:190:image/png
 i:dots/dot_cyan_and.png:190:image/png
 i:explosion.png:330:image/png
+i:PROBDEF_Combination.png:5643:image/png
 i:mine.png:734:image/png
 i:sbut_backward.png:377:image/png
 d:regular_font:0:application/unknown
@@ -205,6 +207,7 @@ i:FOREST_chop_2.png:7732:image/png
 i:level_complete.png:3037:image/png
 i:little_button_orange_trim.png:287:image/png
 i:abutton_menu.png:1832:image/png
+i:writing_symbol.png:295:image/png
 i:textbox_1.png:396:image/png
 i:obscurity_3.png:879:image/png
 i:button_trim_rect.png:288:image/png
@@ -225,6 +228,7 @@ i:banner_example_3.png:2549:image/png
 i:shot_capture.png:184:image/png
 i:pobutton_left_trim_orange.png:351:image/png
 i:ingame_purple_button_trim.png:290:image/png
+i:indicate_turrets.png:965:image/png
 i:blank_page.png:1699:image/png
 i:mine_trim.png:253:image/png
 i:statusbar.png:404:image/png
@@ -275,6 +279,7 @@ i:blank_block.png:250:image/png
 i:banner_bayes.png:1961:image/png
 i:little_button_cent.png:1729:image/png
 i:TITLE_CREDITS.png:2788:image/png
+i:indicate_shockers.png:1488:image/png
 i:shield_layer_three.png:277:image/png
 i:TITLE_OPTIONS.png:2993:image/png
 i:mine_titanium.png:846:image/png
@@ -283,6 +288,7 @@ i:selector_base.png:277:image/png
 i:explainybox.png:388:image/png
 i:abutton_options.png:2652:image/png
 i:abutton_trim_cyan.png:507:image/png
+i:indicate_mines.png:990:image/png
 d:turrets:0:application/unknown
 i:turrets/turret_triangle_emptytop.png:400:image/png
 i:turrets/turret_circle_firing.png:352:image/png
