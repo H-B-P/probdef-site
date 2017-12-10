@@ -10,9 +10,27 @@ i:abutton_long_level.png:1174:image/png
 i:obutton_right.png:486:image/png
 i:enemyship.png:374:image/png
 i:campaign_button_start.png:1352:image/png
+i:level_failed.png:2119:image/png
 i:abutton_credits.png:2419:image/png
 i:shield_flicker.png:134:image/png
 a:LevelSelect.mp3:630575:application/unknown
+d:triagrams:0:application/unknown
+i:triagrams/triangle_diag_4.png:3532:image/png
+i:triagrams/triangle_diag_1.png:3118:image/png
+i:triagrams/triangle_diag_2a.png:3366:image/png
+i:triagrams/triangle_diag_3a.png:3423:image/png
+i:triagrams/triangle_diag_5.png:3793:image/png
+i:triagrams/triangle_diag_5b.png:3897:image/png
+i:triagrams/triangle_diag_1a.png:3216:image/png
+i:triagrams/triangle_diag_4b.png:3899:image/png
+i:triagrams/triangle_diag_5a.png:3913:image/png
+i:triagrams/triangle_diag_1b.png:3254:image/png
+i:triagrams/triangle_diag_4a.png:3743:image/png
+i:triagrams/triangle_base.png:3095:image/png
+i:triagrams/triangle_diag_2b.png:3451:image/png
+i:triagrams/triangle_diag_3.png:3240:image/png
+i:triagrams/triangle_diag_3b.png:3529:image/png
+i:triagrams/triangle_diag_2.png:3189:image/png
 i:shield_layer_one.png:204:image/png
 i:ingame_button_menu (copy).png:1445:image/png
 i:pobutton_left.png:441:image/png
@@ -36,8 +54,10 @@ i:pause_symbol.png:297:image/png
 i:orange_dot.png:115:image/png
 i:pobutton_left_trim.png:363:image/png
 i:mine_capturing_circle.png:628:image/png
+i:combination_equation.png:1283:image/png
 i:fullship_absent.png:1986:image/png
-i:creds4.png:32945:image/png
+i:shield_PURPLE.png:137:image/png
+i:creds4.png:32125:image/png
 i:BG1.png:1450:image/png
 i:campaign_button_next.png:1492:image/png
 i:book_title_trim_argand.png:367:image/png
@@ -183,6 +203,7 @@ i:dots/dot_pink_and.png:190:image/png
 i:dots/dot_cyan_and.png:190:image/png
 i:explosion.png:330:image/png
 i:PROBDEF_Combination.png:5643:image/png
+i:backup_shield_long.png:113:image/png
 i:mine.png:734:image/png
 i:sbut_backward.png:377:image/png
 d:regular_font:0:application/unknown
@@ -207,7 +228,7 @@ i:FOREST_chop_2.png:7732:image/png
 i:level_complete.png:3037:image/png
 i:little_button_orange_trim.png:287:image/png
 i:abutton_menu.png:1832:image/png
-i:writing_symbol.png:295:image/png
+i:writing_symbol.png:294:image/png
 i:textbox_1.png:396:image/png
 i:obscurity_3.png:879:image/png
 i:button_trim_rect.png:288:image/png
@@ -216,7 +237,7 @@ i:abutton_long_trim.png:532:image/png
 i:abutton_trim_yellow.png:510:image/png
 i:abutton_arcade.png:2355:image/png
 i:mine_trim_full.png:657:image/png
-i:minishield.png:124:image/png
+i:minishield.png:108:image/png
 i:campaign_button_ok.png:1189:image/png
 i:abutton_trim_boring.png:519:image/png
 i:obutton_left.png:486:image/png
@@ -289,6 +310,7 @@ i:explainybox.png:388:image/png
 i:abutton_options.png:2652:image/png
 i:abutton_trim_cyan.png:507:image/png
 i:indicate_mines.png:990:image/png
+i:PROBDEF_Bayesian.png:5563:image/png
 d:turrets:0:application/unknown
 i:turrets/turret_triangle_emptytop.png:400:image/png
 i:turrets/turret_circle_firing.png:352:image/png
@@ -346,7 +368,6 @@ i:turrets/chickenscratch_2.png:124:image/png
 i:turrets/turret_triangle.png:410:image/png
 i:turrets/target_square.png:249:image/png
 i:turrets/chickenscratch_5.png:164:image/png
-i:shield_MATRIX.png:152:image/png
 i:abutton_blank.png:483:image/png
 i:little_button_blue_trim.png:306:image/png
 a:MCS_Detective.mp3:462102:application/unknown
@@ -355,7 +376,6 @@ i:FOREST.png:7850:image/png
 i:enemyship_alt.png:354:image/png
 d:snippets:0:application/unknown
 i:snippets/snyp.png:8287:image/png
-i:shield_GREEN.png:137:image/png
 i:obutton_blank.png:402:image/png
 i:tiny_black_arrow.png:135:image/png
 i:PROBDEF.png:3575:image/png
@@ -364,6 +384,7 @@ i:contact_block.png:2156:image/png
 i:abutton_long_tutorial.png:2471:image/png
 i:book_title_button.png:369:image/png
 i:fullship_GREEN.png:2040:image/png
+i:backup_shield.png:101:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
